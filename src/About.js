@@ -10,6 +10,8 @@ export default class About extends Component {
         <div className="row">
           <div className="col-sm-6">
             <h4>Skillset :</h4>
+            <p className="work-done">I have 11 months of FullStack Web Developer experience.</p>
+            <p className="work-done">To find out more check out my LinkedIn.</p>
             <ul className="skills">
               <li>HTML</li>
               <li>CSS</li>
