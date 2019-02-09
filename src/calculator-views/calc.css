@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto');
+
+ .hist {
+     width: 300px;
+}
+
+ .nav-header {
+     margin-left: 79%;
+     font-size: 15px;
+     background-color: #2c3539;
+     color: white;
+     padding: 23px 39px 23px 39px;
+}
+ .link {
+     color: white;
+     padding: 10px 10px 10px 10px;
+}
+ .link:hover {
+     color: white;
+     background-color: gray;
+     text-decoration: none;
+     border-radius: 10px;
+}
+ .btn:not(.learn):not(.cart-btn) {
+     margin-bottom: 5px;
+     margin-left: 1px;
+     width: 69px;
+}
+ body {
+     background-image: url('abstract.jpg');
+     font-family: 'Open Sans', sans-serif !important;
+}
+ .calc-input {
+     margin-top: 30px;
+     margin-bottom: 5px;
+     width: 214px;
+     margin-left: 20px;
+}
+ .in-row{
+     margin-left: 6px;
+}
+ .calc-container {
+     padding-top: 10px;
+     background-color: white;
+     border-radius: 10px;
+     width: 300px;
+     padding-bottom: 30px;
+}
+ .row:not(.page-row):not(.in-row):not(.fr-row) {
+     margin-left: 25px;
+}
+ h1 {
+     color: #FF4136;
+     font-weight: bold;
+     font-family: 'Open Sans', sans-serif;
+     padding-right: 441px;
+}
+ h2, h3, h4, h5, h6, strong {
+     color: white;
+     text-align: left;
+     font-weight: bold;
+     margin-left: 20px;
+     font-family: 'Open Sans', sans-serif;
+}
+ div.vr {
+     border-width: 1px;
+     border-color: black;
+     border-left: 1px;
+     border-style: solid;
+     height:500px;
+}
+ .widgets:not(.calc-container):not(.shopping-container) {
+     border-radius: 10px;
+     height: 550px;
+     padding: 65px 100px 100px 100px;
+     opacity: 1.0;
+     background-color: #50BFE6;
+}
+ p {
+     color: white;
+     font-family: 'Open Sans', sans-serif;
+}
+ .link:hover {
+     background-color: #FF4136;
+}
+ .link:focus {
+     border-bottom: 1px solid white;
+}
+ .list {
+     width: 300px;
+     max-height: 200px;
+     overflow-y: 'scroll';
+}
+ .list-header {
+     background-color: #C8C8C8;
+}
+ .list-header-text {
+     color: white;
+}
+ .home-row, .home-col {
+     margin-left: 0px;
+     padding-left: 0px;
+}
+ strong {
+     text-align: right;
+     color: white;
+     padding: 20px 20px 20px 20px;
+}
+ .about-link:hover {
+     text-decoration: none;
+     color: white;
+}
+ .about-link {
+     color: white;
+}
+ .learn:hover {
+     background-color: #FF4136;
+     border-color: #FF4136;
+}
+ .about-col {
+     border: 1px solid white;
+     border-radius: 5px;
+}
+ .learn {
+     border: 1px solid white;
+     border-radius: 6px;
+     padding: 10px;
+     width: 120px;
+     text-align: center;
+}
+ .home-page-container {
+     text-align: center;
+     padding-left: 400px;
+}
+
+.cart-btn {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.shop-sidebar {
+  
+}
+
+.shop-container {
+    background-color: #b57281;
+    border-radius: 10px;
+}
+.fr-row {
+    margin-left: 100px;
+}
+
+hr {
+     background-color: white;
+}
+
+.about-head {
+     margin-left: 450px;
+}
+
+.skills {
+     color: white !important;
+}
+
+.project {
+     color: white;
+}
+
+.project:hover {
+     color: pink;
+}
